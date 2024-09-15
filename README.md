@@ -34,5 +34,5 @@
 - [x] Ensure that all operations (LED control, button input handling, and LCD display updates) are mapped to **different tasks running independently** to maintain modularity and concurrency within the system.
 
 
-**Task submitted by **: Devesh Shevde  
-**Date os submission **: September 15, 2024
+**Task submitted by**: Devesh Shevde  
+**Date os submission**: September 15, 2024
